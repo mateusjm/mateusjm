@@ -27,11 +27,11 @@ Atualmente, faço Sistema de Informação. Estou em busca de uma oportunidade na
 
 <div>
   <img align="center" alt="MySQL" height="30" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+    src="https://devicon-website.vercel.app/api/mysql/original-wordmark.svg"></img>
   <img align="center" alt="MongoDB" height="30" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+     src="https://devicon-website.vercel.app/api/mongodb/original-wordmark.svg"></img>
   <img align="center" alt="PostgreSQL" height="30" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+    src="https://devicon-website.vercel.app/api/postgresql/original-wordmark.svg"></img>
 </div>
 
 ---
