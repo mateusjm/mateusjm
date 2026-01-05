@@ -6,6 +6,7 @@ Atualmente, faço Sistema de Informação. Estou em busca de uma oportunidade na
 
 ---
 
+
 ### Tecnologias
 
 <div>
@@ -21,6 +22,7 @@ Atualmente, faço Sistema de Informação. Estou em busca de uma oportunidade na
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 </div>
 
+
 ### Banco de Dados
 
 <div>
@@ -32,6 +34,7 @@ Atualmente, faço Sistema de Informação. Estou em busca de uma oportunidade na
     src="https://devicon-website.vercel.app/api/postgresql/original-wordmark.svg"></img>
 </div>
 
+
 ### Ferramentas
 
 <div>
@@ -42,6 +45,7 @@ Atualmente, faço Sistema de Informação. Estou em busca de uma oportunidade na
   <img align="center" alt="Android Studio" height="30" width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
 </div>
+
 
 ### Contato
 
