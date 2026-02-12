@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Mateus Lucas
 
 <p>
-Atualmente, faço Sistema de Informação. Estou em busca de uma oportunidade na área de Desenvolvimento Web.
+Desenvolvedor Web em formação, com experiência em React, React Native e Node.js, atuando no desenvolvimento de aplicações reais com autenticação, regras de negócio, integração com APIs e foco em qualidade de código e escalabilidade.
 </p>
 
 ---
