@@ -13,7 +13,7 @@
 ###
 
 <p align="left">• I'm 21 years old and a student of Information Systems at Uniube, based in Ponte Nova/MG.<br><br>• I'm interested in technology and always looking for new challenges and opportunities in the field. I especially enjoy anything involving logic, mathematics, and programming.<br><br>• Outside of that, I'm a football fan and a Cruzeiro supporter (the biggest team in Minas Gerais 💙). On weekends, I usually play volleyball and football, and I've been going to the gym since 2023.<br><br>• In my free time, I like watching 2000s series like Smallville, Supernatural, and The Office — even though I was born in 2004.</p>
-<hr/>
+<div style="height:1px; background-color:#30363d; margin: 30px 0;"></div>
 
 ###
 
@@ -42,7 +42,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo"  />
 </div>
-<hr/>
+<div style="height:1px; background-color:#30363d; margin: 30px 0;"></div>
 
 ###
 
