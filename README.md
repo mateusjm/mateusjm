@@ -4,20 +4,19 @@
 
 ###
 
-<h1 align="center">Hi, I'm Mateus Lucas👋</h1>
+<h3 align="center">Hi, I'm Mateus Lucas👋</h1>
 
 ###
 
-<h3 align="center">✍️ About me</h3>
+<h1 align="center">✍️ About me</h3>
 
 ###
 
 <p align="left">• I'm 21 years old and a student of Information Systems at Uniube, based in Ponte Nova/MG.<br><br>• I'm interested in technology and always looking for new challenges and opportunities in the field. I especially enjoy anything involving logic, mathematics, and programming.<br><br>• Outside of that, I'm a football fan and a Cruzeiro supporter (the biggest team in Minas Gerais 💙). On weekends, I usually play volleyball and football, and I've been going to the gym since 2023.<br><br>• In my free time, I like watching 2000s series like Smallville, Supernatural, and The Office — even though I was born in 2004.</p>
-<div style="height:1px; background-color:#30363d; margin: 30px 0;"></div>
 
 ###
 
-<h3 align="center">🌐 Languages and Technologies</h3>
+<h1 align="center">🌐 Languages and Technologies</h3>
 
 ###
 
@@ -42,11 +41,10 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo"  />
 </div>
-<div style="height:1px; background-color:#30363d; margin: 30px 0;"></div>
 
 ###
 
-<h3 align="center">📞 Contact</h3>
+<h1 align="center">📞 Contact</h3>
 
 ###
 
@@ -64,14 +62,6 @@
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
   </a>
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mateuslucasjm/mateuslucasjm/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mateuslucasjm/mateuslucasjm/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mateuslucasjm/mateuslucasjm/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
