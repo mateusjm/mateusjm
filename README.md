@@ -1,12 +1,22 @@
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
+
 <h1 align="center">Hi, I'm Mateus Lucas👋</h1>
 
 ###
 
-<h3 align="center">About me ✍️</h3>
+<p align="center">About me ✍️</p>
 
 ###
 
 <p align="left">I'm 21 years old and a student of Information Systems at Uniube, based in Ponte Nova/MG.<br><br>I'm interested in technology and always looking for new challenges and opportunities in the field. I especially enjoy anything involving logic, mathematics, and programming.<br><br>Outside of that, I'm a football fan and a Cruzeiro supporter (the biggest team in Minas Gerais 💙). On weekends, I usually play volleyball and football, and I've been going to the gym since 2023.<br><br>In my free time, I like watching 2000s series like Smallville, Supernatural, and The Office — even though I was born in 2004.</p>
+
+###
+
+<p align="center">Languages and Technologies</p>
 
 ###
 
@@ -34,6 +44,10 @@
 
 ###
 
+<p align="center">Contact</p>
+
+###
+
 <div align="center">
   <a href="https://www.linkedin.com/in/mateuslucasjm/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -56,5 +70,11 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mateuslucasjm/mateuslucasjm/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mateuslucasjm/mateuslucasjm/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 
 ###
