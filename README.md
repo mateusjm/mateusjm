@@ -12,7 +12,7 @@
 
 ###
 
-<h4 align="left">I'm 21 years old and a student of Information Systems at Uniube, based in Ponte Nova/MG.<br><br>I'm interested in technology and always looking for new challenges and opportunities in the field. I especially enjoy anything involving logic, mathematics, and programming.<br><br>Outside of that, I'm a football fan and a Cruzeiro supporter (the biggest team in Minas Gerais 💙). On weekends, I usually play volleyball and football, and I've been going to the gym since 2023.<br><br>In my free time, I like watching 2000s series like Smallville, Supernatural, and The Office — even though I was born in 2004.</p>
+<h4 align="left">Tenho 21 anos e sou estudante de Sistemas de Informação na Uniube, em Ponte Nova/MG.<br><br>Me interesso por tecnologia e estou sempre em busca de novos desafios e oportunidades na área. Gosto especialmente de tudo que envolva lógica, matemática e programação.<br><br>Além disso, sou fã de futebol e torcedor do Cruzeiro (o maior time de Minas Gerais 💙). Nos fins de semana, costumo jogar vôlei e futebol, e frequento a academia desde 2023.<br><br>No meu tempo livre, gosto de assistir séries dos anos 2000 como Smallville, Supernatural e The Office — mesmo tendo nascido em 2004.</p>
 <br/>
 
 ###
