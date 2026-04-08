@@ -4,11 +4,11 @@
 
 ###
 
-<h4 align="center">Hi, I'm Mateus Lucas👋</h1>
+<h4 align="center">Eu sou Mateus Lucas👋</h1>
 
 ###
 
-<h1 align="center">✍️ About me</h3>
+<h1 align="center">✍️ Sobre mim/h3>
 
 ###
 
@@ -17,7 +17,7 @@
 
 ###
 
-<h1 align="center">🌐 Languages and Technologies</h3>
+<h1 align="center">🌐 Linguagens e Tecnologias</h3>
 
 ###
 
@@ -46,7 +46,7 @@
 
 ###
 
-<h1 align="center">📞 Contact</h3>
+<h1 align="center">📞 Contato</h3>
 
 ###
 
