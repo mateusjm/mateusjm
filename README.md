@@ -8,7 +8,7 @@
 
 ###
 
-<h1 align="center">✍️ Sobre mim/h3>
+<h1 align="center">✍️ Sobre mim</h3>
 
 ###
 
