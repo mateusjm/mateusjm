@@ -12,7 +12,7 @@
 
 ###
 
-<h4 align="left">Tenho 21 anos, atualmente faço Sistemas de Informação na Uniube, em Ponte Nova/MG. Possuo mais de 2 anos de experiência prática no desenvolvimento de sistemas, utilizando TypeScript, React e Node.js.<br><br>Me interesso por tecnologia e estou sempre em busca de novos desafios e oportunidades na área. Gosto especialmente de tudo que envolva lógica, matemática e programação.<br><br>Além disso, sou fã de futebol e torcedor do Cruzeiro (o maior time de Minas Gerais 💙). Nos fins de semana, costumo jogar futebol, e frequento a academia desde 2023.<br><br>No meu tempo livre, gosto de assistir séries dos anos 2000 como Smallville, Supernatural e The Office — mesmo tendo nascido em 2004.</p>
+<h4 align="left">Tenho 21 anos, atualmente faço Sistemas de Informação na Uniube, em Ponte Nova/MG. Possuo +2 anos de experiência prática no desenvolvimento de sistemas, utilizando TypeScript, React e Node.js.<br><br>Me interesso por tecnologia e estou sempre em busca de novos desafios e oportunidades na área. Gosto especialmente de tudo que envolva lógica, matemática e programação.<br><br>Além disso, sou fã de futebol e torcedor do Cruzeiro (o maior time de Minas Gerais 💙). Nos fins de semana, costumo jogar futebol, e frequento a academia desde 2023.<br><br>No meu tempo livre, gosto de assistir séries dos anos 2000 como Smallville, Supernatural e The Office — mesmo tendo nascido em 2004.</p>
 <br/>
 
 ###
