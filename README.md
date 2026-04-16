@@ -4,10 +4,6 @@
 
 ###
 
-<h4 align="center">Eu sou Mateus Lucas👋</h1>
-
-###
-
 <h1 align="center">✍️ Sobre mim</h3>
 
 ###
