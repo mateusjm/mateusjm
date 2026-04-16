@@ -46,25 +46,25 @@ Trabalho principalmente com <b>TypeScript</b>, <b>React</b> e <b>Node.js</b>, cr
 
 <h2>🛠️ Principais habilidades</h2>
 <div align="center">
-  <img src="https://api.iconify.design/simple-icons/typescript.svg?color=%239CA3AF" height="40" alt="TypeScript" />
+  <img src="https://api.iconify.design/simple-icons/typescript.svg?color=%239CA3AF" width="40" alt="TypeScript" />
   <img width="12" />
-  <img src="https://api.iconify.design/simple-icons/javascript.svg?color=%239CA3AF" height="40" alt="JavaScript" />
+  <img src="https://api.iconify.design/simple-icons/javascript.svg?color=%239CA3AF" width="40" alt="JavaScript" />
   <img width="12" />
-  <img src="https://api.iconify.design/simple-icons/react.svg?color=%239CA3AF" height="40" alt="React" />
+  <img src="https://api.iconify.design/simple-icons/react.svg?color=%239CA3AF" width="40" alt="React" />
   <img width="12" />
-  <img src="https://api.iconify.design/simple-icons/tailwindcss.svg?color=%239CA3AF" height="40" alt="Tailwind CSS" />
+  <img src="https://api.iconify.design/simple-icons/tailwindcss.svg?color=%239CA3AF" width="40" alt="Tailwind CSS" />
   <img width="12" />
-  <img src="https://api.iconify.design/simple-icons/nodedotjs.svg?color=%239CA3AF" height="40" alt="Node.js" />
+  <img src="https://api.iconify.design/simple-icons/nodedotjs.svg?color=%239CA3AF" width="40" alt="Node.js" />
   <img width="12" />
-  <img src="https://api.iconify.design/simple-icons/express.svg?color=%239CA3AF" height="40" alt="Express" />
+  <img src="https://api.iconify.design/simple-icons/express.svg?color=%239CA3AF" width="40" alt="Express" />
   <img width="12" />
-  <img src="https://api.iconify.design/simple-icons/mysql.svg?color=%239CA3AF" height="40" alt="MySQL" />
+  <img src="https://api.iconify.design/simple-icons/mysql.svg?color=%239CA3AF" width="40" alt="MySQL" />
   <img width="12" />
-  <img src="https://api.iconify.design/simple-icons/git.svg?color=%239CA3AF" height="40" alt="Git" />
+  <img src="https://api.iconify.design/simple-icons/git.svg?color=%239CA3AF" width="40" alt="Git" />
   <img width="12" />
-  <img src="https://api.iconify.design/simple-icons/docker.svg?color=%239CA3AF" height="40" alt="Docker" />
+  <img src="https://api.iconify.design/simple-icons/docker.svg?color=%239CA3AF" width="40" alt="Docker" />
   <img width="12" />
-  <img src="https://api.iconify.design/simple-icons/postman.svg?color=%239CA3AF" height="40" alt="Postman" />
+  <img src="https://api.iconify.design/simple-icons/postman.svg?color=%239CA3AF" width="40" alt="Postman" />
 </div>
 
 <br/>
@@ -72,15 +72,15 @@ Trabalho principalmente com <b>TypeScript</b>, <b>React</b> e <b>Node.js</b>, cr
 <h2>📬 Contato</h2>
 <div align="center">
   <a href="https://www.linkedin.com/in/mateuslucasjm/" target="_blank">
-    <img src="https://api.iconify.design/simple-icons/linkedin.svg?color=%239CA3AF" height="28" alt="linkedin logo" />
+    <img src="https://api.iconify.design/simple-icons/linkedin.svg?color=%239CA3AF" width="28" alt="linkedin logo" />
   </a>
   <img width="16" />
   <a href="mailto:mateulucas333@gmail.com" target="_blank">
-    <img src="https://api.iconify.design/simple-icons/gmail.svg?color=%239CA3AF" height="28" alt="gmail logo" />
+    <img src="https://api.iconify.design/simple-icons/gmail.svg?color=%239CA3AF" width="28" alt="gmail logo" />
   </a>
   <img width="16" />
   <a href="https://api.whatsapp.com/send?phone=5531982845181" target="_blank">
-    <img src="https://api.iconify.design/simple-icons/whatsapp.svg?color=%239CA3AF" height="28" alt="whatsapp logo" />
+    <img src="https://api.iconify.design/simple-icons/whatsapp.svg?color=%239CA3AF" width="28" alt="whatsapp logo" />
   </a>
 </div>
 
