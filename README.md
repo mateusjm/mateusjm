@@ -44,7 +44,7 @@ Trabalho principalmente com <b>TypeScript</b>, <b>React</b> e <b>Node.js</b>, cr
 
 <br/>
 
-<h2>🛠️ Principais habilidades</h2>
+<h2>Principais habilidades</h2>
 <div align="center">
   <img src="https://api.iconify.design/simple-icons/typescript.svg?color=%239CA3AF" width="40" alt="TypeScript" />
   <img width="12" />
