@@ -10,7 +10,7 @@
 
 <br/>
 
-<h2>🧠 Sobre mim</h2>
+<h2>Sobre mim</h2>
 <p>
 Tenho 21 anos, curso Sistemas de Informação e atuo há +2 anos com desenvolvimento web.
 Trabalho principalmente com <b>TypeScript</b>, <b>React</b> e <b>Node.js</b>, criando aplicações completas do front-end à API.
@@ -18,7 +18,7 @@ Trabalho principalmente com <b>TypeScript</b>, <b>React</b> e <b>Node.js</b>, cr
 
 <br/>
 
-<h2>🚀 Projetos em destaque</h2>
+<h2>Projetos em destaque</h2>
 <ul>
   <li>
     <b>Club Pro+</b> — sistema web para simulação de seguros e automação de processos internos.
@@ -69,7 +69,7 @@ Trabalho principalmente com <b>TypeScript</b>, <b>React</b> e <b>Node.js</b>, cr
 
 <br/>
 
-<h2>📬 Contato</h2>
+<h2>Contato</h2>
 <div align="center">
   <a href="https://www.linkedin.com/in/mateuslucasjm/" target="_blank">
     <img src="https://api.iconify.design/simple-icons/linkedin.svg?color=%239CA3AF" width="28" alt="linkedin logo" />
