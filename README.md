@@ -65,6 +65,8 @@ Trabalho principalmente com <b>TypeScript</b>, <b>React</b> e <b>Node.js</b>, cr
   <img src="https://api.iconify.design/simple-icons/docker.svg?color=%239CA3AF" width="40" alt="Docker" />
   <img width="12" />
   <img src="https://api.iconify.design/simple-icons/postman.svg?color=%239CA3AF" width="40" alt="Postman" />
+  <img src="https://api.iconify.design/simple-icons/jest.svg?color=%239CA3AF" width="40" alt="Jest" />
+  <img width="12" />
 </div>
 
 <br/>
