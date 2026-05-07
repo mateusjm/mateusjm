@@ -44,7 +44,7 @@ Trabalho principalmente com <b>TypeScript</b>, <b>React</b> e <b>Node.js</b>, cr
 
 <br/>
 
-<h2>Habilidades</h2>
+<h2>Principais habilidades</h2>
 <div align="center">
   <img src="https://api.iconify.design/simple-icons/typescript.svg?color=%239CA3AF" width="40" alt="TypeScript" />
   <img width="12" />
@@ -52,9 +52,13 @@ Trabalho principalmente com <b>TypeScript</b>, <b>React</b> e <b>Node.js</b>, cr
   <img width="12" />
   <img src="https://api.iconify.design/simple-icons/react.svg?color=%239CA3AF" width="40" alt="React" />
   <img width="12" />
+  <img src="https://api.iconify.design/simple-icons/testinglibrary.svg?color=%239CA3AF" width="40" alt="Testing Library" />
+  <img width="12" />
   <img src="https://api.iconify.design/simple-icons/tailwindcss.svg?color=%239CA3AF" width="40" alt="Tailwind CSS" />
   <img width="12" />
   <img src="https://api.iconify.design/simple-icons/nodedotjs.svg?color=%239CA3AF" width="40" alt="Node.js" />
+  <img width="12" />
+  <img src="https://api.iconify.design/simple-icons/jest.svg?color=%239CA3AF" width="40" alt="Jest" />
   <img width="12" />
   <img src="https://api.iconify.design/simple-icons/express.svg?color=%239CA3AF" width="40" alt="Express" />
   <img width="12" />
@@ -65,8 +69,6 @@ Trabalho principalmente com <b>TypeScript</b>, <b>React</b> e <b>Node.js</b>, cr
   <img src="https://api.iconify.design/simple-icons/docker.svg?color=%239CA3AF" width="40" alt="Docker" />
   <img width="12" />
   <img src="https://api.iconify.design/simple-icons/postman.svg?color=%239CA3AF" width="40" alt="Postman" />
-  <img width="12" />
-  <img src="https://api.iconify.design/simple-icons/jest.svg?color=%239CA3AF" width="40" alt="Jest" />
 </div>
 
 <br/>
