@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=80&section=header&color=9CA3AF" />
   <h1>Mateus Lucas</h1>
-  <p>Desenvolvedor full stack · TypeScript · React · Node.js</p>
 </div>
 
 <p align="center">
@@ -37,19 +36,19 @@
   Atuo do front-end à API com TypeScript, React e Node.js
 </p>
 
-<h2>Projetos em destaque</h2>
+<h2>Projetos</h2>
 
 <div align="center">
   <p>
     <span style="display:inline-block; width:120px; text-align:right;">
-      <a href="https://github.com/GoDo-Devs/priceasy"><b>Club Pro+</b></a> →
+      <a href="https://github.com/GoDo-Devs/priceasy"><b>Club Pró</b></a> →
     </span>
     <span style="display:inline-block; width:420px; text-align:left;">
       Simulação de seguros e automação de processos internos
     </span><br/>
     <span style="display:inline-block; width:120px;"></span>
     <span style="display:inline-block; width:420px; text-align:left;">
-      <sub>Stack: JavaScript · React · Node.js · MySQL · Docker · AWS</sub>
+      Stack: JavaScript · React · Node.js · MySQL · Docker · AWS
     </span>
   </p>
   <p>
@@ -61,12 +60,12 @@
     </span><br/>
     <span style="display:inline-block; width:120px;"></span>
     <span style="display:inline-block; width:420px; text-align:left;">
-      <sub>Stack: React · TypeScript · Node.js · NestJS · MySQL · Material UI</sub>
+      Stack: React · TypeScript · Node.js · NestJS · MySQL · Material UI
     </span>
   </p>
 </div>
 
-<br/>
+<h2>Contato</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mateuslucasjm/" target="_blank">
