@@ -15,28 +15,16 @@
 <h2>Projetos em destaque</h2>
 
 <div align="center">
-  <table>
-    <tbody>
-      <tr>
-        <td style="padding:6px 10px; white-space:nowrap; vertical-align:top;">
-          <a href="https://github.com/GoDo-Devs/priceasy">Club Pro+</a> →
-        </td>
-        <td style="padding:6px 10px; vertical-align:top;">
-          Simulação de seguros e automação de processos internos<br/>
-          <sub>Stack: JavaScript · React · Node.js · MySQL · Docker · AWS</sub>
-        </td>
-      </tr>
-      <tr>
-        <td style="padding:6px 10px; white-space:nowrap; vertical-align:top;">
-          <a href="https://github.com/mateuslucasjm/natura-app">App Natura</a> →
-        </td>
-        <td style="padding:6px 10px; vertical-align:top;">
-          Controle de estoque, vendas e dashboard interativo<br/>
-          <sub>Stack: React · TypeScript · Node.js · NestJS · MySQL · Material UI</sub>
-        </td>
-      </tr>
-    </tbody>
-  </table>
+  <p>
+    <a href="https://github.com/GoDo-Devs/priceasy"><b>Club Pro+</b></a> →
+    Simulação de seguros e automação de processos internos<br/>
+    <sub>stack: JavaScript · React · Node.js · MySQL · Docker · AWS</sub>
+  </p>
+  <p>
+    <a href="https://github.com/mateuslucasjm/natura-app"><b>App Natura</b></a> →
+    Controle de estoque, vendas e dashboard interativo<br/>
+    <sub>stack: React · TypeScript · Node.js · NestJS · MySQL · Material UI</sub>
+  </p>
 </div>
 
 <h2>Stack</h2>
