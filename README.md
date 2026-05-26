@@ -2,32 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=80&section=header&color=9CA3AF" />
   <h1>Mateus Lucas</h1>
   <p>Desenvolvedor full stack · TypeScript · React · Node.js</p>
-  <p>Apps web com foco em performance, organização de código e experiência do usuário.</p>
 </div>
-
-<h2>Sobre mim</h2>
-
-<p align="center">
-  21 anos · Sistemas de Informação · +2 anos com desenvolvimento web<br/>
-  Atuo do front-end à API com TypeScript, React e Node.js
-</p>
-
-<h2>Projetos em destaque</h2>
-
-<div align="center">
-  <p>
-    <a href="https://github.com/GoDo-Devs/priceasy"><b>Club Pro+</b></a> →
-    Simulação de seguros e automação de processos internos<br/>
-    <sub>stack: JavaScript · React · Node.js · MySQL · Docker · AWS</sub>
-  </p>
-  <p>
-    <a href="https://github.com/mateuslucasjm/natura-app"><b>App Natura</b></a> →
-    Controle de estoque, vendas e dashboard interativo<br/>
-    <sub>stack: React · TypeScript · Node.js · NestJS · MySQL · Material UI</sub>
-  </p>
-</div>
-
-<h2>Stack</h2>
 
 <p align="center">
   <img src="https://api.iconify.design/simple-icons/typescript.svg?color=%239CA3AF" width="34" alt="TypeScript" />
@@ -54,7 +29,44 @@
   <img width="8" />
 </p>
 
-<h2>Contato</h2>
+
+<h2>Sobre mim</h2>
+
+<p align="center">
+  21 anos · Sistemas de Informação · +2 anos com desenvolvimento web<br/>
+  Atuo do front-end à API com TypeScript, React e Node.js
+</p>
+
+<h2>Projetos em destaque</h2>
+
+<div align="center">
+  <p>
+    <span style="display:inline-block; width:120px; text-align:right;">
+      <a href="https://github.com/GoDo-Devs/priceasy"><b>Club Pro+</b></a> →
+    </span>
+    <span style="display:inline-block; width:420px; text-align:left;">
+      Simulação de seguros e automação de processos internos
+    </span><br/>
+    <span style="display:inline-block; width:120px;"></span>
+    <span style="display:inline-block; width:420px; text-align:left;">
+      <sub>Stack: JavaScript · React · Node.js · MySQL · Docker · AWS</sub>
+    </span>
+  </p>
+  <p>
+    <span style="display:inline-block; width:120px; text-align:right;">
+      <a href="https://github.com/mateuslucasjm/natura-app"><b>App Natura</b></a> →
+    </span>
+    <span style="display:inline-block; width:420px; text-align:left;">
+      Controle de estoque, vendas e dashboard interativo
+    </span><br/>
+    <span style="display:inline-block; width:120px;"></span>
+    <span style="display:inline-block; width:420px; text-align:left;">
+      <sub>Stack: React · TypeScript · Node.js · NestJS · MySQL · Material UI</sub>
+    </span>
+  </p>
+</div>
+
+<br/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mateuslucasjm/" target="_blank">
