@@ -34,12 +34,6 @@ Trabalho principalmente com <b>TypeScript</b>, <b>React</b> e <b>Node.js</b>, cr
     <br/><a href="https://github.com/mateuslucasjm/natura-app" target="_blank">Repositório</a>
   </li>
   <br/>
-  <li>
-    <b>Form GE</b> — sistema de inscrições para retiro de jovens com automações.
-    <br/><b>Stack</b>: TypeScript • Webhooks • Google Sheets API
-    <br/><b>Destaque</b>: integração de formulários com planilhas e fluxo automatizado.
-    <br/><a href="https://github.com/mateuslucasjm/form-ge" target="_blank">Repositório</a>
-  </li>
 </ul>
 
 <br/>
