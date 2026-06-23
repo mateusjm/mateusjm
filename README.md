@@ -41,7 +41,7 @@
 <div align="center">
   <p>
     <span style="display:inline-block; width:120px; text-align:right;">
-      <a href="https://github.com/GoDo-Devs/priceasy"><b>Club Pró</b></a> →
+      <a href="https://github.com/GoDo-Devs/priceasy"><b>Price Easy</b></a> →
     </span>
     <span style="display:inline-block; width:420px; text-align:left;">
       Simulação de seguros e automação de processos internos
